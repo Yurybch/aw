@@ -1,0 +1,40 @@
+/*
+    Ejercicio Final
+*/
+html{
+    background-image:url(fondo%20html.jpg);
+    background-repeat:no-repeat;
+    background-position: center;
+}
+header{
+    background-color: coral;
+    color: black;
+    border-color: black;
+    border-radius: 20px; 
+    text-align: center;
+    padding: 5px;
+    top:0px;
+}
+Footer{
+    background-color: coral;
+    border: 2px;
+    padding: 5px;
+    
+}
+a{
+   background-color: coral;
+    color:white;
+    padding: 13px;
+    border: 3px solid white;
+    text-align: center;
+    border-radius: 25px;
+    
+}
+
+p{
+    text-align: center;
+    color: white;
+}
+main{
+    text-align: center;
+}

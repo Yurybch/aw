@@ -1,0 +1,46 @@
+/*
+*/
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+html{
+    background-image: url(Huercal.png);
+}
+header{
+    border-top: 0px;
+    
+}
+
+h1{
+    background-color:brown;
+    color:white;
+    padding:1px;
+    margin: auto;
+    border:1px solid black;
+    text-align: center;
+    display: block;
+}
+body{
+    background-color:burlywood;
+}
+footer{
+    background-color:brown;
+    color:white;
+    bottom: 0px;
+    width: 100%;
+    padding:1px;
+    text-align:center;
+    border: 2px;
+}
+p{
+    color: black;
+    text-align:center;
+}
+h2{
+    color:black;
+    text-align:justify;
+}
+
+
+

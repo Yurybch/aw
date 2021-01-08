@@ -1,0 +1,33 @@
+/*
+Mis páginas favoritas
+*/
+
+*{
+margin:0;
+box-sizing: border-box;
+}
+html{
+   background-color: darkgrey;
+}
+h7{
+    background-color: crimson;
+    color:azure;
+    padding: 5px;
+    margin: auto;
+    border: 3px solid gray;
+    border-bottom-style: double;
+    border-radius: 250px;
+    text-align: center;
+    display: block;
+}
+footer{
+    background-color: white;
+    color: black;
+    position: fixed;
+    border: 3px solid gray;
+    border-bottom-style:hidden;
+    bottom: 0px;
+    width: 100%;
+    padding: 1px;
+    text-align: right;
+}

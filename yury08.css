@@ -1,0 +1,29 @@
+/*
+TIPOS DE LISTAS
+*/
+*{
+margin:0;
+box-sizing: border-box;
+}
+html{
+   background-color:aliceblue;
+}
+h1{
+    background-color:cornflowerblue;
+    color:azure;
+    padding:1px;
+    margin: auto;
+    border:1px solid gray;
+    text-align: center;
+    display: block;
+}
+footer{
+    background-color: white;
+    color: black;
+    position:relative;
+    bottom: 0px;
+    width: 100%;
+    padding: 1px;
+    text-align: right;
+}
+

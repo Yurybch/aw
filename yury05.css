@@ -1,0 +1,40 @@
+/*
+Ejercicio 4
+*/
+ h1{   
+    background-color:darkcyan;
+    color:white;
+    margin: 40px;
+    padding: 25px;
+    border: 5px solid white;
+    border-style: double;
+    border-radius: 25px;
+    border-width: 10px;
+    text-align: center;
+}
+.párrafo1{
+    color:darkblue;
+    text-align: center;
+    
+}
+
+.párrafo2{
+    font-size:20px;
+    color:chocolate;
+    text-align:right;
+}
+div style{
+    font-size: 70px;
+}
+}
+h2{
+    background-color:darkcyan; 
+    color:darkblue;
+    
+}
+body{
+    background-color:blanchedalmond
+}
+footer{
+    
+}
