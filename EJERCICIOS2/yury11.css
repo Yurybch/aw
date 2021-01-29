@@ -1,0 +1,50 @@
+/*
+Hoja de Estilos CSS Museos de Londres
+Enero del 2021, @ybch.
+*/
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    background-color: #299a95;
+}
+h1{
+    color:#134545;
+    text-align: center;
+    font-size: 50px;
+    font-family: verdana;
+}
+.Z{
+    margin: 0px 3px;
+    text-align: justify;
+}
+
+.A{
+    background-color: white;
+    border: 9px solid #ff5800;
+    width: 90%;
+    height: 250px;
+    margin: 10px auto;
+}
+.B{
+    background-color: white;
+    border: 9px solid #efac69;
+    width: 90%;
+    height: 250px;
+    margin: 10px auto;  
+}
+.M{
+    display: flex;
+    width: 50%;
+    margin: auto;
+}
+.Bris{
+    float: left;
+    margin:30px 30px;
+    border: 9px solid #faad20;
+    outline: 9px solid #ef6c0c;
+}
+img{
+    width: 15%;
+}

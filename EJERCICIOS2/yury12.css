@@ -1,0 +1,36 @@
+/*
+Estilo CSS yury12
+*/
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+h1{
+    background-color: #19194d;
+    color: white;
+}
+h2{
+    background-color: #19194d;
+    color: white;
+    text-align: center;
+    margin: 20px;
+    width: 40%;
+}
+h3{
+    color: white;
+    background-color: #2eb160;
+    border-top-left-radius: 5px;
+    border-top-right-radius:5px;
+
+    
+}
+p {
+    text-align: justify;
+}
+div{
+    width: 35%;
+    border: 2px solid;
+    border-radius: 9px;
+    margin-top: 20px;
+     
+}

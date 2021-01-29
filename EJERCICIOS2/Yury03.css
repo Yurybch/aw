@@ -1,0 +1,60 @@
+/*
+Hoja de Estilo practica yury03
+*/
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+header{
+    background-color: black;
+    text-align: left;
+    padding: 20px;
+    color:white;  
+}
+footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding: 20px;
+    clear:both;
+}
+h3{
+    color: gray;
+} 
+
+.contenedor{
+    display:flex;
+    flex-direction: row;
+}
+.Biografia{
+    margin: 10px 10px 20px 10px;
+    color:grey;
+    text-align: justify;
+} 
+footer{
+    position:fixed;
+    bottom: 0px;
+    width: 100%;
+    padding: 3px;
+    
+}
+aside{
+    background-color: orange;
+}
+main{
+    background-color:gainsboro;
+    width: 30%;
+    
+}
+img{
+    margin: 10px 10px 10px 0px;
+}
+.texto{
+    margin:10px;
+    text-align: justify;
+    color:#817676;
+}
+h2{
+    margin: 10px;
+    color: gray;
+}
