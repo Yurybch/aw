@@ -1,0 +1,24 @@
+/*
+Realizando pruebas con listas ordenadas y desordenadas. Trabajo realizado por Yury Beatriz Cuaran Hidalgo.
+*/
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+header{
+    border-top: 0px;
+    text-align: center;
+    color: darkblue;
+}
+footer{
+    background-color:deepskyblue;
+    color:white;
+    bottom: 0px;
+    width: 100%;
+    padding:1px;
+    text-align:center;
+    border: 2px;
+}
+h3{
+    color: dodgerblue;
+}

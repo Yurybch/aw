@@ -1,0 +1,78 @@
+/*
+Hoja de Estijo para las leyes de Murphy
+Realizado por Yury Beatriz Cuaran
+*/
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    background-color: #c7c5c5;
+}
+h1{
+    text-align: center;
+}
+div{
+    font-size: 25px;
+    padding-bottom: 50px; 
+    width:80%;
+    margin-top: 40px;
+    margin-left:10%
+   
+}
+.A{
+    background-color:#eac497;
+    text-align: center;
+    margin:auto;
+    border: 3px solid #695632;
+    padding-top: 10px;
+     
+}
+.B{
+    border: 3px solid #d3d07d;
+    background-color: yellow;
+}
+.C{
+    
+    border: 3px solid #5ca2b2; 
+    background-color: #afe9f0;
+    text-align: right;
+   
+}
+.D{
+
+    background-color: #f7d7f6;
+    border: 2px solid #efafea;
+    
+}
+.E{
+    border: 3px solid #694f1f; 
+    background-color:darksalmon;
+    text-align: right;
+}
+
+.F{
+    border: 3px solid #38884e;
+    background-color: #5df76f;
+    text-align: center;
+    position: absolute;
+    width: 30%;
+    top: 35%;
+    left:27%;
+}
+footer{
+    background-color: black;
+    color: white;
+    position: fixed;
+    border: 3px solid white;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+
+}
+main{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 10%;
+    width: 100%;
+}

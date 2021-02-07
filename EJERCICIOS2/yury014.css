@@ -1,0 +1,20 @@
+/*
+Estilo CSS Galeria de Imagenes
+Realizado por @ybch
+*/
+*{
+    box-sizing:border-box;
+    margin: 0;
+}
+img{
+    width:75%;
+    margin:auto;
+}
+div{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap:40px;
+}
+main{
+    margin:20px;
+}

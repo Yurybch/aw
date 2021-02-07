@@ -1,0 +1,88 @@
+/*
+Hoja de Estilo CSS YURY14.HTML
+Enero 2021, @ybch.
+*/
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+h1{
+    color:orange;
+    padding: 5px;
+}
+#logo{
+   float: left;
+}
+#buscador{
+    float: right;
+    margin-top: 10px;
+}
+#contenedor{
+   float:flex;
+   flex-direction: row;
+    
+}
+
+#menu{
+    display: flex;
+    
+}
+#menu_principal{
+    margin-top: 8%;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    background-color: blue;
+    width: 100%;
+    
+}
+
+.copyright{
+    float: right;
+    color: black;
+}
+#lateral{
+    background-color:azure;
+    width:17%;
+    margin-top: 1%;
+    float: left;
+    padding: 10px;
+}
+#noticias{
+    border: 2px solid black;
+    
+}
+#publicidad{
+    border: 2px dotted black;
+    margin-top: 5%;
+    background-color: beige;
+    margin-bottom: 15%;
+}
+#secundario{
+    border: 2px solid orange;
+    width: 15%;
+    float:left;
+    margin-top: 1%;
+   
+}
+#principal{
+    width:61%;
+    float: left;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 1%;
+    
+}
+#pie{
+    position:fixed;
+    bottom: 0px;
+    width: 100%;
+    padding: 3px;
+    border:2px solid gray;
+    background-color: azure;
+}
+.fecha{
+    color:blue;
+}
+h2{
+    background-color: orange;
+}
