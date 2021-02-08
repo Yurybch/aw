@@ -1,0 +1,81 @@
+/*
+Hoja de Estilo CSS Horario
+Enero 2021, Yury Beatriz Cuaran
+*/
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    background-color: #76bcff;
+    width: 60%;
+    margin: auto;
+    margin-top: 10px;
+}
+h2{
+    text-align: center;
+    background-color: #cce4fa;
+    width: 60%;
+    margin: auto;
+}
+table{
+    border: 1px solid black;
+    margin:auto;
+    border-collapse:collapse;
+    width:60%;
+}
+caption{
+    margin-top: 30px;
+    border: 1px solid black;
+    padding: 3px;
+    background-color: #99c6e6;
+}
+table th{
+    text-align: center;
+    border: 1px solid;
+    padding: 10px;
+    background-color:#cee4f7;
+    
+}
+table td{
+    border: 1px solid black;
+    text-align: center;
+}
+.A{
+    text-align: center;
+}
+.B{
+    text-align: right;  
+}
+.S{
+    background-color: #f25cf2;
+}
+.E{
+    background-color:#4b90ff;
+}
+.V{
+    background-color:#68e5e5
+}
+.M{
+    background-image: url(apw.png);
+}
+.D{
+    background-color: #fff148
+}
+.H{
+    background-color: #ffa150
+}
+.R{
+   background-color: deepskyblue;
+    text-align:center;
+}
+
+.Z{
+    width: 100%;
+}
+.Y{
+    width: 100%;
+}
+
+

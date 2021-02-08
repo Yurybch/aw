@@ -1,0 +1,62 @@
+/*
+Estilo CSS para dar colores al texto.
+Enero
+*/
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+#titulo{
+    color:darkcyan;
+}
+.destacado{
+    color:orange;
+}
+#subtitulo{
+    color: blue;
+}
+.especial{
+    color:orange;
+}
+.especialp{
+    color:purple;
+}
+#especial{
+    color: fuchsia;
+}
+caption{
+    color: blue;
+}
+div{
+    color:olive;
+}
+a{
+    color: red;
+}
+table{
+    width: 50%;
+    color: black;
+    border-collapse: collapse;
+}
+table th{
+    border: 1px solid black;
+    padding: 5px;
+}
+table td{
+   
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+.red{
+    color: red;
+}
+.green{
+    color: #11c963;
+}
+
